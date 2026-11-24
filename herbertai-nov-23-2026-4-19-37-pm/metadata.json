@@ -1,0 +1,6 @@
+{
+  "name": "Luminary",
+  "description": "An AI question-and-answer app powered by Gemini that answers any question with streaming responses, follow-ups, and photo analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
